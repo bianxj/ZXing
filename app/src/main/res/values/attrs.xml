@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="ViewfinderView">
+        <attr name="borderColor" format="color"></attr>
+        <attr name="borderSize" format="dimension"></attr>
+        <attr name="borderLength" format="dimension"></attr>
+        <attr name="centerX" format="dimension"></attr>
+        <attr name="centerY" format="dimension"></attr>
+        <attr name="frameLength" format="dimension"></attr>
+    </declare-styleable>
+    
+</resources>
